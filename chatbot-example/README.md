@@ -14,3 +14,4 @@ Make sure the model is running with Ollama. Run following command to launch the 
 ```bash
 streamlit run ollama-chatbot.py
 ```
+<image src="/chatbot.gif" alt="Chatbot">
