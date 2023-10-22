@@ -12,6 +12,6 @@ pip install streamlit langchain
 Make sure the model is running with Ollama. Run following command to launch the Chatbot 
 
 ```bash
-streamlit run ollama-chatbot.py
+streamlit run chatbot.py
 ```
 <img src="chatbot.gif" alt="Chatbot">
